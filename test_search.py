@@ -1,5 +1,5 @@
 import unittest
-from lecture1 import linear_search, binary_search
+from search import linear_search, binary_search
 from typing import List
 
 A:List[int] = []
